@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "branding": {
     "tagline": "Средневековье начинается здесь",
     "serverName": "ESTERVAL RP"
@@ -15,7 +15,7 @@
   "newsPath": "launcher/news.json",
   "rulesPath": "launcher/rules.json",
   "activeThemePath": "launcher/theme.json",
-  "serverAddress": "213.152.43.16:25692",
+  "serverAddress": "213.152.43.16",
   "serverPort": 25692,
   "launcherVersion": "1.0.0",
   "launcherDownloadUrl": "",
