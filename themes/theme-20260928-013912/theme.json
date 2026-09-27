@@ -1,0 +1,32 @@
+{
+  "id": "theme-20260928-013912",
+  "name": "Хеллуин",
+  "version": 2,
+  "state": "draft",
+  "theme": {
+    "background": {
+      "type": "image",
+      "url": "themes/theme-20260928-013912/background.png",
+      "overlayOpacity": 0.35,
+      "blur": 12.0
+    },
+    "colors": {
+      "primary": "#CD5700",
+      "primaryHover": "#CD5705",
+      "primaryPressed": "#CD5700",
+      "text": "#FFFFFF",
+      "secondaryText": "#C8C8C8",
+      "panel": "#151515",
+      "panelOpacity": 0.85
+    },
+    "playButton": {
+      "text": "ИГРАТЬ",
+      "width": 260,
+      "height": 64,
+      "cornerRadius": 8
+    },
+    "logo": {
+      "url": "themes/medieval/logo.png"
+    }
+  }
+}
