@@ -1,24 +1,325 @@
 name = "Esterval"
-version = "2026.09.24.1"
-minecraft-version = "26.1.2"
+version = "2026.09.27.1"
+minecraft-version = "1.21.1"
 
 [[files]]
-file = "mods/MoggChat.jar"
-url = "https://raw.githubusercontent.com/ESTERVAL/Esterval-Client/main/modpack/mods/MoggChat.jar"
-hash = "REPLACE_WITH_SHA256"
+file = "mods/alchimiae-fabric-0.3.10-1.21.1-sgd.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/alchimiae-fabric-0.3.10-1.21.1-sgd.jar"
+hash = "954aea5616836d8a126b828edf27a8ed041872dc8f1114096e4b25385b4c0f0e"
 hash-format = "sha256"
+size = 803314
 side = "client"
 
 [[files]]
-file = "mods/NewMod.jar"
-url = "https://raw.githubusercontent.com/ESTERVAL/Esterval-Client/main/modpack/mods/NewMod.jar"
-hash = "REPLACE_WITH_SHA256"
+file = "mods/architectury-13.0.11-fabric.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/architectury-13.0.11-fabric.jar"
+hash = "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd"
 hash-format = "sha256"
+size = 600921
 side = "client"
 
 [[files]]
-file = "config/esterval.json"
-url = "https://raw.githubusercontent.com/ESTERVAL/Esterval-Client/main/modpack/config/esterval.json"
-hash = "REPLACE_WITH_SHA256"
+file = "mods/bettercombat-fabric-2.4.0+1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/bettercombat-fabric-2.4.0+1.21.1.jar"
+hash = "2ecd3284a4443300873bb7a7aba4643aacf91acd778b377faeffa44afe049b9b"
 hash-format = "sha256"
+size = 930023
 side = "client"
+
+[[files]]
+file = "mods/bodycloset-fabric-1.0.2.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/bodycloset-fabric-1.0.2.jar"
+hash = "6ad51248b5ce1436a396adf8fac007455c7c56a22d4bd2b4faad90e447680cfa"
+hash-format = "sha256"
+size = 165244
+side = "client"
+
+[[files]]
+file = "mods/BrewinAndChewin-fabric-4.5.0+1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/BrewinAndChewin-fabric-4.5.0+1.21.1.jar"
+hash = "ce3fa071acfcb8150fbc06c353d1c163abb6dbf33dae77c45ae18857b6695685"
+hash-format = "sha256"
+size = 1548542
+side = "client"
+
+[[files]]
+file = "mods/cloth-config-15.0.140-fabric.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/cloth-config-15.0.140-fabric.jar"
+hash = "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
+hash-format = "sha256"
+size = 1157166
+side = "client"
+
+[[files]]
+file = "mods/drawinginbooks-1.0.0.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/drawinginbooks-1.0.0.jar"
+hash = "0774ee9b173ac66efe2c195839bc8bcd7de94f757f0e0bf9ddabfca43f314097"
+hash-format = "sha256"
+size = 54832
+side = "client"
+
+[[files]]
+file = "mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
+hash = "633a77711f650dbf0bd071a43c086b7946d6e117b28ac1a414d038ea7b339f7c"
+hash-format = "sha256"
+size = 863362
+side = "client"
+
+[[files]]
+file = "mods/fabric-api-0.116.17+1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/fabric-api-0.116.17+1.21.1.jar"
+hash = "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800"
+hash-format = "sha256"
+size = 2452735
+side = "client"
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar"
+hash = "f288f0273fa9d592b07869fa2bbd7bdca274998a38b87eb8485c109420921e2a"
+hash-format = "sha256"
+size = 7796348
+side = "client"
+
+[[files]]
+file = "mods/fantasy_armor-fabric-1.2.4-1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/fantasy_armor-fabric-1.2.4-1.21.1.jar"
+hash = "fc80deb15956a01ee34b4455fdc56c9ed708962ff3a2df55590557857fe8fa4f"
+hash-format = "sha256"
+size = 548439
+side = "client"
+
+[[files]]
+file = "mods/FarmersDelight-1.21.1-3.3.0+refabricated.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/FarmersDelight-1.21.1-3.3.0+refabricated.jar"
+hash = "8258f9afc51ff4c3b6283f200e0c10c5f3d347b843a0579ee9bebfc996ce34a4"
+hash-format = "sha256"
+size = 3192062
+side = "client"
+
+[[files]]
+file = "mods/ferritecore-7.0.3-fabric.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/ferritecore-7.0.3-fabric.jar"
+hash = "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2"
+hash-format = "sha256"
+size = 123450
+side = "client"
+
+[[files]]
+file = "mods/geckolib-fabric-1.21.1-4.9.3.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/geckolib-fabric-1.21.1-4.9.3.jar"
+hash = "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0"
+hash-format = "sha256"
+size = 664463
+side = "client"
+
+[[files]]
+file = "mods/ImmediatelyFast-Fabric-1.6.9+1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/ImmediatelyFast-Fabric-1.6.9+1.21.1.jar"
+hash = "edd3640ad522f44920cba831eb9735541a081f8bbf9e11a282c12c960f1f0727"
+hash-format = "sha256"
+size = 341961
+side = "client"
+
+[[files]]
+file = "mods/immersive_furniture-fabric-0.3.3+1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/immersive_furniture-fabric-0.3.3+1.21.1.jar"
+hash = "ae177a8fcd8749004072170b999d6c4bb35146eebbe5b7c13f95eb43972f1b83"
+hash-format = "sha256"
+size = 1025500
+side = "client"
+
+[[files]]
+file = "mods/immersive_melodies-fabric-0.8.0+1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/immersive_melodies-fabric-0.8.0+1.21.1.jar"
+hash = "d811350c2fc3d01a2cdb194a44de9e226c5a191e2c50f7e59e81fd31d052f7ac"
+hash-format = "sha256"
+size = 5576068
+side = "client"
+
+[[files]]
+file = "mods/iris-1.7.3+mc1.21.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/iris-1.7.3+mc1.21.jar"
+hash = "bd029ec25cb3d64d40b649702a898b7cf7e59c75309c0aba74c1f14d9af62e54"
+hash-format = "sha256"
+size = 2707610
+side = "client"
+
+[[files]]
+file = "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar"
+hash = "0ceb694040b4628bf3fa02286cfe5f0db833195669ab07f8caa4001359763eff"
+hash-format = "sha256"
+size = 2791343
+side = "client"
+
+[[files]]
+file = "mods/jei-1.21.1-fabric-19.57.0.449.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/jei-1.21.1-fabric-19.57.0.449.jar"
+hash = "4a327bee285a83dc45d897e6b6756a105d9356c61b7fd9f1225989c5cf6c6991"
+hash-format = "sha256"
+size = 2292585
+side = "client"
+
+[[files]]
+file = "mods/knightsheraldry-fabric-1.21.1-1.1.0.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/knightsheraldry-fabric-1.21.1-1.1.0.jar"
+hash = "0af5cc39a70314d3e71c2af0fa6b720f9f82581e12392b910a362900ba3db8a9"
+hash-format = "sha256"
+size = 1988095
+side = "client"
+
+[[files]]
+file = "mods/letsdo-herbalbrews-fabric-1.1.4.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/letsdo-herbalbrews-fabric-1.1.4.jar"
+hash = "474b7872828fb8484ff54f124351b1f42da8b67d65c6cfeebe17ddffc6227154"
+hash-format = "sha256"
+size = 752135
+side = "client"
+
+[[files]]
+file = "mods/letsdo-vinery-fabric-1.5.4.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/letsdo-vinery-fabric-1.5.4.jar"
+hash = "aaf090c72ac66f7a44e8eb8e178ae8fe3bc317866ce37a0541fa9c992b51493d"
+hash-format = "sha256"
+size = 3000759
+side = "client"
+
+[[files]]
+file = "mods/letsdo-wildernature-fabric-1.1.6.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/letsdo-wildernature-fabric-1.1.6.jar"
+hash = "b2c898ea2c8585686d4aa55f46a9b16e3f3ed0f1c2c0cb61fced707e7bfc6a85"
+hash-format = "sha256"
+size = 4308660
+side = "client"
+
+[[files]]
+file = "mods/lithium-fabric-0.15.4+mc1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/lithium-fabric-0.15.4+mc1.21.1.jar"
+hash = "92329d98c57f5a22091a0adb509fdb1d60113a5602c708b799b13134bad13baa"
+hash-format = "sha256"
+size = 797454
+side = "client"
+
+[[files]]
+file = "mods/modernfix-fabric-5.24.3+mc1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/modernfix-fabric-5.24.3+mc1.21.1.jar"
+hash = "8cea4724d32621db848c0db58d699be48076aaff767493288839ec4a83d61860"
+hash-format = "sha256"
+size = 460259
+side = "client"
+
+[[files]]
+file = "mods/moggchat-fabric-1.21.1-1.0.2.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/moggchat-fabric-1.21.1-1.0.2.jar"
+hash = "46b0b144379553a05301d37e61235a55fea25d316f161381116012f98d2e5db9"
+hash-format = "sha256"
+size = 142853
+side = "client"
+
+[[files]]
+file = "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+hash = "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
+hash-format = "sha256"
+size = 46623
+side = "client"
+
+[[files]]
+file = "mods/securetrade-fabric-1.3.0-1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/securetrade-fabric-1.3.0-1.21.1.jar"
+hash = "2419c3a55ecef47dd37606aa529a006f680fb0ff940d12555f40b4b08addaa8f"
+hash-format = "sha256"
+size = 323297
+side = "client"
+
+[[files]]
+file = "mods/sodium-fabric-0.8.13+mc1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/sodium-fabric-0.8.13+mc1.21.1.jar"
+hash = "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d"
+hash-format = "sha256"
+size = 1574609
+side = "client"
+
+[[files]]
+file = "mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar"
+hash = "65f309c45202b1ee22e38fc154f19035123e7871be192e0ec8692e94eaf96668"
+hash-format = "sha256"
+size = 202561
+side = "client"
+
+[[files]]
+file = "mods/stoneycore-fabric-1.21.1-1.1.4.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/stoneycore-fabric-1.21.1-1.1.4.jar"
+hash = "7c1871b062e2d07dc2689f35d4a94d29ccdbf238fc3ac56cd58c2d7e579078d1"
+hash-format = "sha256"
+size = 1095557
+side = "client"
+
+[[files]]
+file = "mods/TAB_v5.2.0_1.20.5-1.21.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/TAB_v5.2.0_1.20.5-1.21.1.jar"
+hash = "0e4319288395057a543ac0595f10eac4744a044d7fe298db0251f4974f5f3986"
+hash-format = "sha256"
+size = 3489334
+side = "client"
+
+[[files]]
+file = "mods/TCBz_Cigarette_mod_Fabric_1.21.1_v1.4.10.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/TCBz_Cigarette_mod_Fabric_1.21.1_v1.4.10.jar"
+hash = "43217d9b908a4b9d77b5cbf177ff6ff7907600f0761cd0ba1ceeee12a9328448"
+hash-format = "sha256"
+size = 2391101
+side = "client"
+
+[[files]]
+file = "mods/trinkets-3.10.0.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/trinkets-3.10.0.jar"
+hash = "349fd2aa8930b232050ee5304db55e4ef738b017971afe7c84acd589a95fda2f"
+hash-format = "sha256"
+size = 272944
+side = "client"
+
+[[files]]
+file = "mods/unfocused-fabric-0.3.4-1.21.1-sgd.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/unfocused-fabric-0.3.4-1.21.1-sgd.jar"
+hash = "b05cd43c20e9c27b64f35286e88c7343c458ad20fc40df5fbefec3aa9c0eb520"
+hash-format = "sha256"
+size = 398470
+side = "client"
+
+[[files]]
+file = "mods/voicechat-fabric-1.21.1-2.6.24.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/voicechat-fabric-1.21.1-2.6.24.jar"
+hash = "a6982277bac53420c0e64f8305e133cbadb0f982b30d6ccce9b3e02dfdff991b"
+hash-format = "sha256"
+size = 5386871
+side = "client"
+
+[[files]]
+file = "mods/xercapaint-1.21.1-2.0.1.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/xercapaint-1.21.1-2.0.1.jar"
+hash = "36a9231eaf894d27462ab040855385496b9fd529cf935df8082659a69712df90"
+hash-format = "sha256"
+size = 439469
+side = "client"
+
+[[files]]
+file = "mods/skin_changer-fabric-1.21-0.9.2.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/skin_changer-fabric-1.21-0.9.2.jar"
+hash = "5b63a4cb755c3e0c2e05a7b440ad88643aa1029dae5eb19462d4b0d945ce817a"
+hash-format = "sha256"
+size = 63089
+side = "client"
+
+[[files]]
+file = "mods/tl_skin_cape_fabric_1.20.2_1.21.1-1.38.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/tl_skin_cape_fabric_1.20.2_1.21.1-1.38.jar"
+hash = "8197b5e0b85d45cfcb98bffef34d070c6371efe28443c92a807cdc98d110f5f7"
+hash-format = "sha256"
+size = 1208062
+side = "client"
+
+
