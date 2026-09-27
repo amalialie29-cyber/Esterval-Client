@@ -1,13 +1,14 @@
 {
   "id": "medieval",
   "name": "Средневековье",
-  "version": 5,
-  "state": "published",
+  "version": 6,
+  "state": "draft",
   "theme": {
     "background": {
       "type": "image",
       "url": "themes/medieval/1.png",
-      "overlayOpacity": 0.35
+      "overlayOpacity": 0.35,
+      "blur": 12.0
     },
     "colors": {
       "primary": "#1FA34A",
