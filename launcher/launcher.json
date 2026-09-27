@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "branding": {
     "tagline": "Средневековье начинается здесь",
-    "serverName": "ESTERVAL"
+    "serverName": "ESTERVAL RP"
   },
   "social": {
     "discord": "",
@@ -15,8 +15,9 @@
   "newsPath": "launcher/news.json",
   "rulesPath": "launcher/rules.json",
   "activeThemePath": "launcher/theme.json",
-  "serverAddress": "play.esterval.example",
-  "serverPort": 25565,
+  "serverAddress": "213.152.43.16:25692",
+  "serverPort": 25692,
   "launcherVersion": "1.0.0",
-  "launcherDownloadUrl": ""
+  "launcherDownloadUrl": "",
+  "logoPath": "launcher/logo.png"
 }
