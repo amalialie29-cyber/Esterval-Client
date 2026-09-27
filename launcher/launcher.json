@@ -5,12 +5,12 @@
     "serverName": "ESTERVAL"
   },
   "social": {
-    "discord": "https://discord.gg/esterval",
-    "telegram": "https://t.me/esterval",
-    "twitch": "https://twitch.tv/esterval"
+    "discord": "",
+    "telegram": "",
+    "twitch": "https://www.twitch.tv/ruwives"
   },
   "modpackVersion": "2026.09.24.1",
-  "newsVersion": 3,
+  "newsVersion": 1,
   "rulesVersion": 1,
   "newsPath": "launcher/news.json",
   "rulesPath": "launcher/rules.json",
