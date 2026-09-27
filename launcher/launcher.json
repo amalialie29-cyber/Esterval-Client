@@ -1,11 +1,11 @@
 {
-  "version": 8,
+  "version": 9,
   "branding": {
     "tagline": "Minecraft 1.21.1 Fabric",
     "serverName": "ESTERVAL RP"
   },
   "social": {
-    "discord": "",
+    "discord": "https://discord.gg/sUw9ebR8KC",
     "telegram": "https://t.me/ruwives",
     "twitch": "https://www.twitch.tv/ruwives"
   },
@@ -21,6 +21,21 @@
   "launcherDownloadUrl": "",
   "logoPath": "launcher/logo.png",
   "servers": [
+    {
+      "name": "ESTERVAL RP",
+      "address": "213.152.43.16",
+      "port": 25692
+    },
+    {
+      "name": "ESTERVAL RP - 2",
+      "address": "estrvlroleplay.joinserver.ru",
+      "port": 25565
+    },
+    {
+      "name": "ESTERVAL RP - 3",
+      "address": "esterval.imba.land",
+      "port": 25565
+    },
     {
       "name": "ESTERVAL RP",
       "address": "213.152.43.16",
