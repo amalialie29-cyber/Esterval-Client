@@ -1,8 +1,8 @@
 {
   "id": "theme-20260928-013912",
   "name": "Хеллуин",
-  "version": 5,
-  "state": "published",
+  "version": 6,
+  "state": "draft",
   "theme": {
     "background": {
       "type": "image",
@@ -11,8 +11,8 @@
       "blur": 12.0
     },
     "colors": {
-      "primary": "#CD5700",
-      "primaryHover": "#CD5700",
+      "primary": "#CC4900",
+      "primaryHover": "#CC4900",
       "primaryPressed": "#C13600",
       "text": "#FFFFFF",
       "secondaryText": "#C8C8C8",
