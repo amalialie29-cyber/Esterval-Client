@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "news": [
     {
       "id": "news-20260927-203345",
@@ -10,20 +10,12 @@
       "enabled": false
     },
     {
-      "id": "opening",
-      "title": "Открытие сервера",
-      "description": "мы открылись емае",
-      "image": "images/news/opening.png",
-      "date": "2026-09-24",
-      "enabled": true
-    },
-    {
       "id": "update-1",
       "title": "Обновление сборки",
       "description": "Добавлен NewMod, удалён OldMod, обновлён MoggChat.",
       "image": "images/news/update1.jpg",
       "date": "2026-09-25",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "old-event",
