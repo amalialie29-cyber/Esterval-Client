@@ -1,8 +1,8 @@
 {
   "id": "medieval",
   "name": "Средневековье",
-  "version": 2,
-  "state": "draft",
+  "version": 3,
+  "state": "published",
   "theme": {
     "background": {
       "type": "image",
