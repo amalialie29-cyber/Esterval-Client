@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "news": [
     {
       "id": "news-20260927-203345",
@@ -13,7 +13,7 @@
       "id": "opening",
       "title": "Открытие сервера",
       "description": "Средневековье начинается здесь!",
-      "image": "images/news/f004894b-faa4-4fe0-8463-46a2c48902f0_bc48602b414c.png",
+      "image": "images/news/opening.png",
       "date": "2026-09-24",
       "enabled": true
     },
