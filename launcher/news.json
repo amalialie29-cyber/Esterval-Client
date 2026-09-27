@@ -1,29 +1,4 @@
 {
-  "version": 10,
-  "news": [
-    {
-      "id": "news-20260927-203345",
-      "title": "Новая новость",
-      "description": "",
-      "image": "",
-      "date": "2026-09-27",
-      "enabled": false
-    },
-    {
-      "id": "update-1",
-      "title": "Обновление сборки",
-      "description": "Добавлен NewMod, удалён OldMod, обновлён MoggChat.",
-      "image": "images/news/update1.jpg",
-      "date": "2026-09-25",
-      "enabled": false
-    },
-    {
-      "id": "old-event",
-      "title": "Прошедший ивент",
-      "description": "Архивная новость.",
-      "image": "",
-      "date": "2026-09-01",
-      "enabled": false
-    }
-  ]
+  "version": 11,
+  "news": []
 }
