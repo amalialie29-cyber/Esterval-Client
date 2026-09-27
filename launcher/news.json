@@ -1,0 +1,29 @@
+{
+  "version": 3,
+  "news": [
+    {
+      "id": "opening",
+      "title": "Открытие сервера",
+      "description": "Средневековье начинается здесь!",
+      "image": "images/news/opening.jpg",
+      "date": "2026-09-24",
+      "enabled": true
+    },
+    {
+      "id": "update-1",
+      "title": "Обновление сборки",
+      "description": "Добавлен NewMod, удалён OldMod, обновлён MoggChat.",
+      "image": "images/news/update1.jpg",
+      "date": "2026-09-25",
+      "enabled": true
+    },
+    {
+      "id": "old-event",
+      "title": "Прошедший ивент",
+      "description": "Архивная новость.",
+      "image": "",
+      "date": "2026-09-01",
+      "enabled": false
+    }
+  ]
+}

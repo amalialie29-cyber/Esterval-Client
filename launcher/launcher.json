@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "branding": {
+    "tagline": "Средневековье начинается здесь",
+    "serverName": "ESTERVAL"
+  },
+  "social": {
+    "discord": "https://discord.gg/esterval",
+    "telegram": "https://t.me/esterval",
+    "twitch": "https://twitch.tv/esterval"
+  },
+  "modpackVersion": "2026.09.24.1",
+  "newsVersion": 3,
+  "rulesVersion": 1,
+  "newsPath": "launcher/news.json",
+  "rulesPath": "launcher/rules.json",
+  "activeThemePath": "launcher/theme.json",
+  "serverAddress": "play.esterval.example",
+  "serverPort": 25565,
+  "launcherVersion": "1.0.0",
+  "launcherDownloadUrl": ""
+}

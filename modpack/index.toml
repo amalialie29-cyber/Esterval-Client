@@ -1,0 +1,24 @@
+name = "Esterval"
+version = "2026.09.24.1"
+minecraft-version = "26.1.2"
+
+[[files]]
+file = "mods/MoggChat.jar"
+url = "https://raw.githubusercontent.com/ESTERVAL/Esterval-Client/main/modpack/mods/MoggChat.jar"
+hash = "REPLACE_WITH_SHA256"
+hash-format = "sha256"
+side = "client"
+
+[[files]]
+file = "mods/NewMod.jar"
+url = "https://raw.githubusercontent.com/ESTERVAL/Esterval-Client/main/modpack/mods/NewMod.jar"
+hash = "REPLACE_WITH_SHA256"
+hash-format = "sha256"
+side = "client"
+
+[[files]]
+file = "config/esterval.json"
+url = "https://raw.githubusercontent.com/ESTERVAL/Esterval-Client/main/modpack/config/esterval.json"
+hash = "REPLACE_WITH_SHA256"
+hash-format = "sha256"
+side = "client"
