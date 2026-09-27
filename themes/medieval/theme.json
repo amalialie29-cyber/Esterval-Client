@@ -6,7 +6,7 @@
   "theme": {
     "background": {
       "type": "image",
-      "url": "themes/medieval/1.jpg",
+      "url": "themes/medieval/background.jpg",
       "overlayOpacity": 0.35
     },
     "colors": {
