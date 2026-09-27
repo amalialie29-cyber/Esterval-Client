@@ -1,7 +1,7 @@
 {
-  "version": 5,
+  "version": 6,
   "branding": {
-    "tagline": "Средневековье начинается здесь",
+    "tagline": "Minecraft 1.21.1 Fabric",
     "serverName": "ESTERVAL RP"
   },
   "social": {
@@ -21,6 +21,21 @@
   "launcherDownloadUrl": "",
   "logoPath": "launcher/logo.png",
   "servers": [
+    {
+      "name": "ESTERVAL RP",
+      "address": "213.152.43.16",
+      "port": 25692
+    },
+    {
+      "name": "ESTERVAL RP - 2",
+      "address": "estrvlroleplay.joinserver.ru",
+      "port": 25565
+    },
+    {
+      "name": "ESTERVAL RP - 3",
+      "address": "esterval.imba.land",
+      "port": 25565
+    },
     {
       "name": "Esterval RP",
       "address": "213.152.43.16",
