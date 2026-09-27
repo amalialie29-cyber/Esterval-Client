@@ -1,12 +1,12 @@
 {
-  "version": 3,
+  "version": 4,
   "branding": {
     "tagline": "Средневековье начинается здесь",
     "serverName": "ESTERVAL RP"
   },
   "social": {
     "discord": "",
-    "telegram": "",
+    "telegram": "https://t.me/ruwives",
     "twitch": "https://www.twitch.tv/ruwives"
   },
   "modpackVersion": "2026.09.24.1",
