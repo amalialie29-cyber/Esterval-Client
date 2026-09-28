@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "branding": {
     "tagline": "Minecraft 1.21.1 Fabric",
     "serverName": "ESTERVAL RP"
@@ -17,10 +17,10 @@
   "activeThemePath": "launcher/theme.json",
   "serverAddress": "213.152.43.16",
   "serverPort": 25692,
-  "launcherVersion": "1.0.3",
-  "launcherDownloadUrl": "https://github.com/amalialie29-cyber/Esterval-Client/releases/download/v1.0.2/EstervalLauncher.exe",
-  "launcherUpdaterUrl": "https://github.com/amalialie29-cyber/Esterval-Client/releases/download/v1.0.2/EstervalLauncherUpdater.exe",
-  "launcherSha256": "fd68ffc930ee3d9eb43c8bb5dc4af9235fee6ebc846598186edaa9ec5ff73b74",
+  "launcherVersion": "1.0.4",
+  "launcherDownloadUrl": "https://github.com/amalialie29-cyber/Esterval-Client/releases/download/v1.0.4/EstervalLauncher.exe",
+  "launcherUpdaterUrl": "https://github.com/amalialie29-cyber/Esterval-Client/releases/download/v1.0.4/EstervalLauncherUpdater.exe",
+  "launcherSha256": "5a6e8991a1f8399840c11db2cb1633fca967ee567634255a6509d90b9a1445e0",
   "logoPath": "launcher/logo.png",
   "servers": [
     {
