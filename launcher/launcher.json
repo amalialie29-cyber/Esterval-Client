@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "branding": {
     "tagline": "Minecraft 1.21.1 Fabric",
     "serverName": "ESTERVAL RP"
@@ -35,96 +35,6 @@
       "name": "ESTERVAL RP - 3",
       "address": "esterval.imba.land",
       "port": 25565
-    },
-    {
-      "name": "ESTERVAL RP",
-      "address": "213.152.43.16",
-      "port": 25692
-    },
-    {
-      "name": "ESTERVAL RP - 2",
-      "address": "estrvlroleplay.joinserver.ru",
-      "port": 25565
-    },
-    {
-      "name": "ESTERVAL RP - 3",
-      "address": "esterval.imba.land",
-      "port": 25565
-    },
-    {
-      "name": "ESTERVAL RP",
-      "address": "213.152.43.16",
-      "port": 25692
-    },
-    {
-      "name": "ESTERVAL RP - 2",
-      "address": "estrvlroleplay.joinserver.ru",
-      "port": 25565
-    },
-    {
-      "name": "ESTERVAL RP - 3",
-      "address": "esterval.imba.land",
-      "port": 25565
-    },
-    {
-      "name": "ESTERVAL RP",
-      "address": "213.152.43.16",
-      "port": 25692
-    },
-    {
-      "name": "ESTERVAL RP - 2",
-      "address": "estrvlroleplay.joinserver.ru",
-      "port": 25565
-    },
-    {
-      "name": "ESTERVAL RP - 3",
-      "address": "esterval.imba.land",
-      "port": 25565
-    },
-    {
-      "name": "ESTERVAL RP",
-      "address": "213.152.43.16",
-      "port": 25692
-    },
-    {
-      "name": "ESTERVAL RP - 2",
-      "address": "estrvlroleplay.joinserver.ru",
-      "port": 25565
-    },
-    {
-      "name": "ESTERVAL RP - 3",
-      "address": "esterval.imba.land",
-      "port": 25565
-    },
-    {
-      "name": "ESTERVAL RP",
-      "address": "213.152.43.16",
-      "port": 25692
-    },
-    {
-      "name": "ESTERVAL RP - 2",
-      "address": "estrvlroleplay.joinserver.ru",
-      "port": 25565
-    },
-    {
-      "name": "ESTERVAL RP - 3",
-      "address": "esterval.imba.land",
-      "port": 25565
-    },
-    {
-      "name": "Esterval RP",
-      "address": "213.152.43.16",
-      "port": 25692
-    },
-    {
-      "name": "Esterval RP - 2",
-      "address": "estrvlroleplay.joinserver.ru",
-      "port": 25692
-    },
-    {
-      "name": "Esterval - 3",
-      "address": "esterval.imba.land",
-      "port": 25692
     }
   ]
 }
