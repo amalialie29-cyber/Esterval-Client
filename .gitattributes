@@ -1,0 +1,2 @@
+# Esterval: modpack files must keep exact bytes - launcher verifies SHA256
+/modpack/** -text
