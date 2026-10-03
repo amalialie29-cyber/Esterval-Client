@@ -1,5 +1,5 @@
 name = "Esterval"
-version = "2026.10.03.5"
+version = "2026.10.03.6"
 minecraft-version = "1.21.1"
 
 [[files]]
@@ -657,4 +657,10 @@ hash = "c68bddf2c6495beb7e7bc24a9a7df75e0eb11f68226f6d1918878d237c9df67c"
 hash-format = "sha256"
 size = 783201
 side = "client"
-
+[[files]]
+file = "resourcepacks/FreshMoves_v3.1_AnimatedEyes.zip"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/resourcepacks/FreshMoves_v3.1_AnimatedEyes.zip"
+hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"
+hash-format = "sha256"
+size = 321871
+side = "client"
