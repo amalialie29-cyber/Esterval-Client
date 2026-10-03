@@ -1,5 +1,5 @@
 name = "Esterval"
-version = "2026.10.03.9"
+version = "2026.10.03.10"
 minecraft-version = "1.21.1"
 
 [[files]]
@@ -642,21 +642,6 @@ hash-format = "sha256"
 size = 5330
 side = "client"
 
-[[files]]
-file = "mods/entity_model_features-3.3.9-1.21-fabric.jar"
-url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/entity_model_features-3.3.9-1.21-fabric.jar"
-hash = "443c276c5f88b8b62cda2588f9d01530f373ac7f9d8263c7c7ea2f213bbe878f"
-hash-format = "sha256"
-size = 639152
-side = "client"
-
-[[files]]
-file = "mods/entity_texture_features-7.2.4-1.21-fabric.jar"
-url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/entity_texture_features-7.2.4-1.21-fabric.jar"
-hash = "c68bddf2c6495beb7e7bc24a9a7df75e0eb11f68226f6d1918878d237c9df67c"
-hash-format = "sha256"
-size = 783201
-side = "client"
 [[files]]
 file = "resourcepacks/EmoteBend_FreshFace.zip"
 url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/resourcepacks/EmoteBend_FreshFace.zip"
