@@ -1,5 +1,5 @@
 name = "Esterval"
-version = "2026.10.03.11"
+version = "2026.10.03.12"
 minecraft-version = "1.21.1"
 
 [[files]]
@@ -176,6 +176,14 @@ url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/
 hash = "474b7872828fb8484ff54f124351b1f42da8b67d65c6cfeebe17ddffc6227154"
 hash-format = "sha256"
 size = 752135
+side = "client"
+
+[[files]]
+file = "mods/letsdo-lilis_pottery-fabric-1.0.3.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/letsdo-lilis_pottery-fabric-1.0.3.jar"
+hash = "4107da8d1946b1c28211c5e2f206a731f10cc2a24d9546b6b65715223483386b"
+hash-format = "sha256"
+size = 904218
 side = "client"
 
 [[files]]
