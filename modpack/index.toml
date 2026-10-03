@@ -659,4 +659,20 @@ hash-format = "sha256"
 size = 783201
 side = "client"
 
+[[files]]
+file = "resourcepacks/FA+Player-v1.1.zip"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/resourcepacks/FA+Player-v1.1.zip"
+hash = "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
+hash-format = "sha256"
+size = 110203
+side = "client"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.10.4.zip"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/resourcepacks/FreshAnimations_v1.10.4.zip"
+hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bfffc712b446be8de7f2"
+hash-format = "sha256"
+size = 850941
+side = "client"
+
 
