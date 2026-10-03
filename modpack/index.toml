@@ -1,5 +1,5 @@
 name = "Esterval"
-version = "2026.10.03.2"
+version = "2026.10.03.3"
 minecraft-version = "1.21.1"
 
 [[files]]
@@ -673,6 +673,14 @@ url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/
 hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bfffc712b446be8de7f2"
 hash-format = "sha256"
 size = 850941
+side = "client"
+
+[[files]]
+file = "resourcepacks/EmoteBend(FreshFace).zip"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/resourcepacks/EmoteBend(FreshFace).zip"
+hash = "81c9ee6b5ce5db1802c5b3dc61120a5459c3c9f3d3355edefa3e5de47076b2b8"
+hash-format = "sha256"
+size = 87806
 side = "client"
 
 
