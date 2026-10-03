@@ -1,5 +1,5 @@
 name = "Esterval"
-version = "2026.10.03.12"
+version = "2026.10.03.13"
 minecraft-version = "1.21.1"
 
 [[files]]
@@ -64,6 +64,14 @@ url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/
 hash = "633a77711f650dbf0bd071a43c086b7946d6e117b28ac1a414d038ea7b339f7c"
 hash-format = "sha256"
 size = 863362
+side = "client"
+
+[[files]]
+file = "mods/esterval-auth-1.0.0.jar"
+url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/esterval-auth-1.0.0.jar"
+hash = "a14304ad3ba997d6fd6787431f1f81de44c5a36966ef5772dcdcec46dce98fca"
+hash-format = "sha256"
+size = 37352
 side = "client"
 
 [[files]]
