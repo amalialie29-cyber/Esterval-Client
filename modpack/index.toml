@@ -1,5 +1,5 @@
 name = "Esterval"
-version = "2026.10.03.10"
+version = "2026.10.03.11"
 minecraft-version = "1.21.1"
 
 [[files]]
@@ -269,9 +269,9 @@ side = "client"
 [[files]]
 file = "mods/TCBz_Cigarette_mod_Fabric_1.21.1_v1.4.10.jar"
 url = "https://raw.githubusercontent.com/amalialie29-cyber/Esterval-Client/main/modpack/mods/TCBz_Cigarette_mod_Fabric_1.21.1_v1.4.10.jar"
-hash = "43217d9b908a4b9d77b5cbf177ff6ff7907600f0761cd0ba1ceeee12a9328448"
+hash = "95714106c68dea13d5c889bd42e62f7e0d5beba44f09d4b655f496ab1ade5bf2"
 hash-format = "sha256"
-size = 2391101
+size = 2390762
 side = "client"
 
 [[files]]
